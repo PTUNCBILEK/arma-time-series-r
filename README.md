@@ -26,7 +26,7 @@ The main output of this project is an HTML report including:
 - Visualizations
 
 ## File Structure
-- `ARMA_PRESENTATION_26.11.26.docx` → Full project report
+- `ARMA_PRESENTATION.html` → Full project report
 - `ARMA_PRESENTATION.rmd` → Full project report
 
 ## Language & Tools
