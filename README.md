@@ -1,4 +1,5 @@
 # ARMA Time Series Analysis (R)
+An academic project based on real-world panel data , focusing on econometric time series analysis and implemented in R.
 
 ## Overview
 This project presents an analysis of AutoRegressive Moving Average (ARMA) models within the context of time series analysis.
